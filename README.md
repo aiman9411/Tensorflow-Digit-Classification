@@ -70,6 +70,3 @@ This project builds and trains a neural network to classify handwritten digits (
         plt.axis('off')
     plt.show()
     ```
-
-## Project Structure
-
